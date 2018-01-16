@@ -1,0 +1,8 @@
+app/model/Order.class
+app/configuration/MongoConfiguration.class
+app/controller/OrderRestController.class
+app/configuration/CORSFilter.class
+app/configuration/ApplicationInitializer.class
+app/repository/OrderRepositoryImpl.class
+app/configuration/ApplicationConfiguration.class
+app/repository/OrderRepository.class
